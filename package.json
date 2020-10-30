@@ -1,0 +1,28 @@
+{
+  "name": "oop-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "babel": "babel --presets env babel.js -o build/babel.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohandabdalrahman/oop-practise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohandabdalrahman/oop-practise/issues"
+  },
+  "homepage": "https://github.com/mohandabdalrahman/oop-practise#readme",
+  "devDependencies": {
+    "@webpack-cli/init": "^1.0.2",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^5.3.2"
+  },
+  "dependencies": {}
+}
